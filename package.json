@@ -1,6 +1,6 @@
 {
   "name": "simple-enum",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple enum factory",
   "main": "index.js",
   "repository": {
