@@ -1,22 +1,8 @@
-node-enum
-=========
+Micro JS Enum
+=============
 
-Simple enum library for creating and using enums
+A **94-byte** JavaScript enum implementation, based on <a href="https://github.com/tolgaek/node-enum" target="_blank">Tolgaek's node-enum</a>.
 
-Usage
------
-
-```javascript
-var enumFactory = require("simple-enum");
-
-var moods = enumFactory(["HAPPY", "SAD", "EXCITED"]);
-
-moods.all === [1,2,3] //True
-
-moods.all.indexOf(moods.HAPPY) > -1 //True
-
-moods.HAPPY === 1 //True
-
-moods.SAD ===2 //True
-
-```
+Documentation
+-------------
+> Documentation and examples can be found in [the wiki of this GitHub repo](https://github.com/BlueHuskyStudios/Micro-JS-Enum/wiki)
