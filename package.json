@@ -1,17 +1,17 @@
 {
-  "name": "simple-enum",
-  "version": "0.0.3",
-  "description": "Simple enum factory",
+  "name": "micro-enum",
+  "version": "1.0.0",
+  "description": "A very, very tiny JavaScript enum implementation",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tolgaek/node-enum.git"
+    "url": "https://github.com/BlueHuskyStudios/Micro-JS-Enum"
   },
-  "author": "Tolga Ekmen <tolga.ekmen@gmail.com>",
+  "author": "Kyli Rouge <Kyli@BHStudios.org>",
   "maintainers": [
     {
-      "name": "Tolga Ekmen",
-      "url": "https://github.com/tolgaek"
+      "name": "Kyli Rouge",
+      "url": "https://github.com/Supuhstar"
     }
   ],
   "license": "MIT"
