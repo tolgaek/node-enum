@@ -5,4 +5,4 @@ A **94-byte** JavaScript enum implementation, based on <a href="https://github.c
 
 Documentation
 -------------
-> Documentation can be found in [the wiki of this GitHub repo](https://github.com/BlueHuskyStudios/Micro-JS-Enum/wiki)
+> Documentation and examples can be found in [the wiki of this GitHub repo](https://github.com/BlueHuskyStudios/Micro-JS-Enum/wiki)
