@@ -1,7 +1,9 @@
 Micro JS Enum
 =============
 
-A **94-byte** JavaScript enum implementation.
+A **71-byte** JavaScript enum implementation.
+
+Based on `tolgaek` 94-byte JavaScript enum implementation.
 
 Documentation
 -------------
