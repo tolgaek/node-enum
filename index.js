@@ -1,1 +1,1 @@
-module.exports = require('./lib/micro-enum.js');
+module.exports=require('./lib/micro-enum.js');
